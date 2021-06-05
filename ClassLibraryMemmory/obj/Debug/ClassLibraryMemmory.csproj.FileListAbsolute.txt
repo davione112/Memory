@@ -1,0 +1,9 @@
+D:\Memory\ClassLibraryMemmory\bin\Debug\ClassLibraryMemmory.dll
+D:\Memory\ClassLibraryMemmory\bin\Debug\ClassLibraryMemmory.pdb
+D:\Memory\ClassLibraryMemmory\obj\Debug\ClassLibraryMemmory.csprojAssemblyReference.cache
+D:\Memory\ClassLibraryMemmory\obj\Debug\ClassLibraryMemmory.csproj.CoreCompileInputs.cache
+D:\Memory\ClassLibraryMemmory\obj\Debug\ClassLibraryMemmory.dll
+D:\Memory\ClassLibraryMemmory\obj\Debug\ClassLibraryMemmory.pdb
+D:\Memory\ClassLibraryMemmory\bin\Debug\Dapper.dll
+D:\Memory\ClassLibraryMemmory\bin\Debug\Dapper.xml
+D:\Memory\ClassLibraryMemmory\obj\Debug\ClassLibraryMemmory.csproj.CopyComplete

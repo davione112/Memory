@@ -1,0 +1,9 @@
+D:\Memory\ClassLibraryMemory\bin\Debug\netcoreapp3.1\ClassLibraryMemory.deps.json
+D:\Memory\ClassLibraryMemory\bin\Debug\netcoreapp3.1\ClassLibraryMemory.dll
+D:\Memory\ClassLibraryMemory\bin\Debug\netcoreapp3.1\ClassLibraryMemory.pdb
+D:\Memory\ClassLibraryMemory\obj\Debug\netcoreapp3.1\ClassLibraryMemory.csprojAssemblyReference.cache
+D:\Memory\ClassLibraryMemory\obj\Debug\netcoreapp3.1\ClassLibraryMemory.AssemblyInfoInputs.cache
+D:\Memory\ClassLibraryMemory\obj\Debug\netcoreapp3.1\ClassLibraryMemory.AssemblyInfo.cs
+D:\Memory\ClassLibraryMemory\obj\Debug\netcoreapp3.1\ClassLibraryMemory.csproj.CoreCompileInputs.cache
+D:\Memory\ClassLibraryMemory\obj\Debug\netcoreapp3.1\ClassLibraryMemory.dll
+D:\Memory\ClassLibraryMemory\obj\Debug\netcoreapp3.1\ClassLibraryMemory.pdb
